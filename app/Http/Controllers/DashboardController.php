@@ -7,6 +7,7 @@ use Illuminate\Http\Request;
 use Inertia\Inertia;
 use Inertia\Response;
 
+# dsaassa
 class DashboardController extends Controller
 {
     public function __invoke(Request $request): Response
